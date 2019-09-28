@@ -1,0 +1,41 @@
+Mono path[0] = 'C:/Users/Adamo/Desktop/Unity/New Unity Project/Builds/TheAscentDevelopment_Data/Managed'
+Mono path[1] = 'C:/Users/Adamo/Desktop/Unity/New Unity Project/Builds/TheAscentDevelopment_Data/Mono'
+Mono config path = 'C:/Users/Adamo/Desktop/Unity/New Unity Project/Builds/TheAscentDevelopment_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Adamo/Desktop/Unity/New Unity Project/Builds/TheAscentDevelopment_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55012
+Multi-casting "[IP] 192.168.1.141 [Port] 55012 [Flags] 3 [Guid] 1284558270 [EditorId] 1458235911 [Version] 1048832 [Id] WindowsPlayer(Adamo_Laptop) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55012]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55012]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56270
+PlayerConnection already initialized - listening to [0.0.0.0:55012]
+Player data archive not found at `C:/Users/Adamo/Desktop/Unity/New Unity Project/Builds/TheAscentDevelopment_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8610G (ID=0x990f)
+    Vendor:   ATI
+    VRAM:     736 MB
+    Driver:   15.200.1062.1004
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.622 seconds
+Platform assembly: C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Adamo\Desktop\Unity\New Unity Project\Builds\TheAscentDevelopment_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 2646x1024 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 40.977982 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 24b0 -> priority: 1 
+  Thread -> id: 26cc -> priority: 1 
